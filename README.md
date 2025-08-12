@@ -12,6 +12,8 @@
 - JavaScript (Beginner)
 - AWS Basics
 - Git & GitHub
+- Java
+- C programming 
 
 ---
 
